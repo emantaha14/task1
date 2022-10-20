@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     static String sZ = "safe zone";
     static String dZ = "dangerous zone";
-    static String dS = "special zone";
+    static String dS = "special zon";
 
     public static void main(String[] args) {
 
